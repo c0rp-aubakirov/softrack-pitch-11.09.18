@@ -9,8 +9,4 @@
 ## Планы и задачи
 
 
----
-
-## SQ статистика
-
-?image=assets/images/sq-stats.png&size=auto 100%
+---?image=assets/images/sq-stats.png&size=auto 100%

@@ -9,4 +9,11 @@
 ## Планы и задачи
 
 
----?image=assets/images/sq-stats.png&size=auto 100%
+---
+
+## SQ статистика
+
+![SAMBA Deployment](assets/images/sq-stats.png)
+
+---
+?image=assets/images/sq-stats.png&size=auto 100%

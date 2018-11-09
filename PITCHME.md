@@ -34,8 +34,9 @@ Note:
 - Allpay Postgresql
 - Allpay производительность 1 tx/sec
 
-
 ---?image=assets/images/sq-stats.png&size=auto 100%
+
+---
 
 ## Производительность
 
